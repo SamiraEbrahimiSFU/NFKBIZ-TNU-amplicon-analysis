@@ -47,4 +47,4 @@ Run the relevant Python script(s).
 
 Data availability
 
-Raw sequencing data are deposited in the NCBI Sequence Read Archive (SRA) under BioProject accession: [XXXXXX].
+Raw sequencing data are deposited in the NCBI Sequence Read Archive (SRA) under BioProject accession: [SUB16583568].
